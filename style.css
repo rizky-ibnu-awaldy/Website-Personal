@@ -1,0 +1,134 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+*{
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+}
+.navbar1{
+    height: 75px;
+    background-color: #AEDBCE;
+}
+.nav-logo{
+    color: #570A57;
+    font-size: 36px;
+    padding-left: 20px;
+    padding-top: 7px;
+    float: left;
+    font-family: 'Bungee Shade', cursive;
+}
+.container{
+    width: 1170px;
+    padding: 0 15px;
+}
+
+.navbar1 li{
+    list-style: none;
+    float: right;
+    padding:23px 40px;
+    font-size: 20px;
+    font-family: 'Bungee', cursive;
+}
+.navbar1 a{
+    text-decoration: none;
+    color:#570A57;
+}
+
+.top-wrapper{
+    background-image: url(https://wallpapercave.com/wp/wp3268788.png);
+    height:684px;
+    background-position: cover;
+    opacity: 0.8;
+
+}
+.txt-home{
+    padding-top: 200px;
+    font-family: 'Bungee Hairline', cursive;
+    font-size: 40px;
+    letter-spacing: 5px;
+    position: absolute;
+    font-weight: bold;
+    color: #570A57;
+}
+.txt-info{
+    letter-spacing: -1px;
+    font-size: 30px;
+    
+}
+
+
+/* STYLE HALAMAN ABOUT */
+.top-wrapper2{
+    background-image: url(https://external-preview.redd.it/Pa3RFtBckwWP6Ux-D21mUpEfxZqVJXIP_0LfNRtE26E.png?auto=webp&s=4e7185a82b14a202068f8aaed423a1a07071fb13);
+    height:684px;
+    background-position: cover;
+    opacity: 0.8;
+    
+}
+.txt-about{
+    text-align: justify; 
+    padding-top:60px;
+    font-family: 'Bungee Hairline', cursive;
+    font-weight: bold;
+    color: #570A57;
+    font-size: 20px;
+}
+/* STYLE HALAMAN MY WORK */
+.top-wrapper4{
+    background-image: url(https://wallpapercave.com/wp/wp7620722.png);
+    height:1880px;
+    background-position: cover;
+    opacity: 0.9;
+}
+.txt-work{
+    text-align: justify; 
+    padding-top:100px;
+    font-family: 'Bungee Hairline', cursive;
+    font-weight: bold;
+    color: #570A57;
+    font-size: 20px;
+}
+
+/* STYLE HALAMAN FIND ME */
+.top-wrapper3{
+    background-image: url(https://images.hdqwalls.com/download/mountains-minimal-blue-day-5k-8m-2880x1800.jpg);
+    height:684px;
+    background-position: cover;
+    opacity: 0.9;
+}
+.txt-find{
+    text-align: justify; 
+    padding-top:60px;
+    font-family: 'Bungee Hairline', cursive;
+    font-weight: bold;
+    color: #570A57;
+    font-size: 20px;
+}
+.logo-find{
+    padding-top: 30px;
+}
+.logo-find a{
+    text-decoration: none;
+    color: black;
+}
+.logo-find p1{
+    padding-left: 10px;
+    font-family: 'Bungee', cursive;
+    
+}
+.footer{
+    height: 80px;
+    background-color: #AEDBCE;
+}
+.txt-footer{
+    text-align: center;
+    padding: 30px;
+    font-family: 'Bungee', cursive;
+    font-size: 15px;
+    color: purple;
+}
